@@ -109,3 +109,17 @@ ul {
 span {
     font-weight: bold;
 }
+
+input textarea {
+    border-radius: 10px;
+}
+
+a {
+    display: block;
+    margin-top: 5px;
+}
+
+.info {
+    margin-top: 10px;
+    margin-left: 10px;
+}
